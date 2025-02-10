@@ -1,0 +1,18 @@
+input{
+    background-color: #F8F9FA   !important; 
+}
+
+.btn-primary {
+    background-color: #0D6EFD !important;
+}
+
+.col-2 img{
+    height: 120px;
+}
+
+#details {
+    opacity: 0;
+}
+#loading{
+    display: none;
+}
